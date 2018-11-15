@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainPage.xaml](./CS/LoadShapefile/MainPage.xaml) (VB: [MainPage.xaml](./VB/LoadShapefile/MainPage.xaml))**
+<!-- default file list end -->
 # How to: Load vector data from Shapefile
 
 
